@@ -1,0 +1,26 @@
+ Shortcut keys
+
+Web storm
+
+Finding code - Ctrl + Shift + F (simple search in that same document Ctrl + F but Ctrl + Shift + F better cause it's project wide search)
+Close tab - Ctrl + F4
+Duplicate line of code - Ctrl + D
+autocomplete code - Tab
+Check recent files - Ctrl + E 
+Comment a line of code - Ctrl + /
+Comment a block of code - Ctrl + Shift + /
+Rename - Shift+F6
+Shift line of code up or down - Alt + Shift+ up/Down Arrow
+
+* can give multiple of the element. Bijv: p*5 you get 5 paragraphs
+
+Visual Studio
+
+Go to All - Ctrl + T or Ctrl + ,
+Navigate tabs Backward / Forward - Ctrl + -
+Comment - Ctrl + K, Ctrl + C 
+Uncomment - Ctrl + K + U
+Move Code Up / Down - Alt + Arrows up/down
+Format Document / Selection - Ctrl + K, Ctrl + D
+Rename - Ctrl + R, Ctrl + R
+Run - Ctrl + F5
